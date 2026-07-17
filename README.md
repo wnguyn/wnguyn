@@ -1,2 +1,1 @@
-![welcome to my world](./minions.gif)
-my page -> https://wngyn.net
+![welcome to my world](./welcome.gif)
